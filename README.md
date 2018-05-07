@@ -1,2 +1,2 @@
 # tutorial
-this is a tutorial for machine learning programming 
+This is a repository for my machine learning projects
